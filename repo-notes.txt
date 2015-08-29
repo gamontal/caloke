@@ -1,0 +1,17 @@
+
+-- Conceptual notes for the Caloke repository
+
+** Ask user for repo name upon selection
+** Add name to DataBase
+** load webpage with repo contents (none for default)
+** Add, Delete, Edit, Repo settings (components are subject to change)
+** Add prompts user for source code file
+** Delete will delete a selected file with a warning (could also notify all team members)
+** Edit will load a second window where the user can edit the source code (highlighting and changes can be added later
+** Repo settings will load a page where the user can change the repo name, or delete repo (may require other users permision)
+
+
+
+** points to discuss
+
+** User permition or restrictions (like GitHub)
